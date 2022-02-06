@@ -1,4 +1,4 @@
-# BTree-and-Variants
+# BTree and Variants
 ## Implementation of building and searching B and B+ Trees of variable order d in C++
 
 ## Bd tree:
